@@ -1,5 +1,11 @@
 # Awesome-Solution
 
+## Python
+
+### Links
+
+- [python 相对导入常见问题和解决方案](https://blog.csdn.net/qq_41767116/article/details/120408040)
+
 ## WSL
 
 ### Description
