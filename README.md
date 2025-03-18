@@ -16,6 +16,12 @@ Windows Subsystem for Linux (WSL) 是一个能够在 Windows 上运行原生 Lin
 
 - [如何完全卸载 WSL](https://www.cnblogs.com/xietianjiao/p/18080490)
 
+## 发票查验
+
+### Links
+
+- [记一次国家税务总局查验发票显示网络异常的解决方法](https://fontlos.com/post/2023-12-11)
+
 ## Acknowledgements
 
 Thank you to all the original authors whose links and resources are referenced in this project.
